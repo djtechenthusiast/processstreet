@@ -1,6 +1,6 @@
 Description
 
-Code task for process street 
+Angular directive to upload video to Wistia platform using blueimp library 
 
 
 
